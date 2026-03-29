@@ -6,3 +6,7 @@
 <p>Closures são blocos de código autocontidos que podem ser passados e usados em seu
 código. Eles são como funções anônimas e podem capturar e armazenar referências a
 variáveis do contexto em que são definidos</p>
+
+<h3>Propriedades (Avançado)
+</h3>
+<p></p>
